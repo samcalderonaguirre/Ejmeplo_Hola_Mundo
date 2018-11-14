@@ -1,2 +1,3 @@
-# Ejmeplo_Hola_Mundo
-Ejemplo de creación de un repositorio de un archivo que contenga el Hola Mundo
+# Hola Mundo - versión 2.0
+Este es un ejmplo de manejo de cambios en GitHub
+:) 
